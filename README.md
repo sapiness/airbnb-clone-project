@@ -1,20 +1,23 @@
-Project Description
-This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
+<h1>Project Description</h1>
+<p>This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.</p>
 
 <h1>Learning Objectives</h1>
-By completing this project, you will:
+<p>By completing this project, you will:</p>
 
-Learn to implement responsive UI/UX designs
-Understand how to structure a complex web application
-Practice working in a team with defined roles
-Develop skills in component-based frontend architecture
-Learn best practices for web application development
+<ul>
+<li>Learn to implement responsive UI/UX designs</li>
+<li>Understand how to structure a complex web application</li>
+<li>Practice working in a team with defined roles</li>
+<li>Develop skills in component-based frontend architecture</li>
+<li>Learn best practices for web application development</li>
+</ul>
 
 <h1>Tech Stack</h1>
-Frontend: HTML, CSS, JavaScript (React or similar framework)
-Version Control: Git and GitHub
-Design Tools: Figma for UI/UX design
-
+<ul>
+<li><b>Frontend:</b> HTML, CSS, JavaScript (React or similar framework)</li>
+<li><b>Version Control:</b> Git and GitHub</li>
+<li><b>Design Tools:</b> Figma for UI/UX design</li>
+</ul>
 ##<section name="UI/UX Design Planning">
 <h1>UI/UX Design Planning</h1>
 
@@ -66,3 +69,81 @@ Design Tools: Figma for UI/UX design
 
 </section>
 
+##<section name="Project Roles and Responsibilities">
+<h1>Project Roles and Responsibilities</h1>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Responsibilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project Manager</td>
+      <td>Oversees timeline, coordinates team, manages deliverables</td>
+    </tr>
+    <tr>
+      <td>Frontend Developers</td>
+      <td>Implements UI components, ensures responsive design</td>
+    </tr>
+     <tr>
+      <td>Backend Developers</td>
+      <td>Builds APIs, manages database, implements business logic</td>
+    </tr>
+    <tr>
+      <td>Designers</td>
+      <td>Creates mockups, maintains design system, ensures UX quality</td>
+    </tr>
+    <tr>
+      <td>QA/Testers</td>
+      <td>Writes test cases, performs testing, reports bugs</td>
+    </tr>
+    <tr>
+      <td>DevOps Engineers</td>
+      <td>Builds APIs, manages database, implements business Manages deployment, CI/CD pipeline, server infrastructure</td>
+    </tr>
+     <tr>
+      <td>Product Owner</td>
+      <td>Defines requirements, prioritizes features, represents stakeholders</td>
+    </tr>
+     <tr>
+      <td>Scrum Master</td>
+      <td>Facilitates agile processes, removes blockers, organizes meetings</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+##<section name="UI Component Patterns">
+<h1>Project Roles and Responsibilities</h1>
+<h2>Planned Components</h2>
+
+<ol>
+<li>Navbar<li>
+<ul>
+<li>Logo</li>
+<li>Search bar</li>
+<li>User navigation</li>
+<li>Responsive menu</li>
+<li>Property Card</li>
+</ul>
+
+<li>Property image</li>
+<ul>
+<li>Basic details (price, location, rating)</li>
+<li>Favorite button</li>
+<li>Responsive layout</li>
+</ul>
+
+<li>Footer</li>
+<ul>
+<li>Site links</li>
+<li>Company information</li>
+<li>Social media links</li>
+<li>Copyright information</li>
+</ul>
+
+</ol>
+</section>
